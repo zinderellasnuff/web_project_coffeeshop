@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-**Web Project CoffeeShop** es una página web diseñada para una cafetería ficticia, mostrando habilidades de desarrollo web en **HTML**, **CSS**, y **JavaScript**. El sitio web presenta una interfaz de usuario atractiva y funcional con secciones clave como:
+**Web Project CoffeeShop** es una página web diseñada para una cafetería ficticia, mostrando habilidades de desarrollo web en **HTML**, **CSS**. El sitio web presenta una interfaz de usuario atractiva y funcional con secciones clave como:
 
 - **Menú**: Un vistazo a las opciones de bebidas y comidas.
 - **Acerca de Nosotros**: Información sobre la historia y misión de la cafetería.
@@ -14,7 +14,6 @@ El objetivo de este proyecto es crear una experiencia inmersiva que refleje el a
 
 - **HTML5**: Para la estructura semántica del sitio.
 - **CSS3**: Para el diseño visual y la disposición.
-- **JavaScript**: Para agregar interactividad y funcionalidad dinámica.
 
 ## Planes de Mejora
 
